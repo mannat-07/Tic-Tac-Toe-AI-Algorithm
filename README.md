@@ -26,8 +26,8 @@ Download & Unzip the project.
 Open terminal and navigate to the project folder.
 
 Compile and run:  
-```javac TicTacToeGame.java  
-java TicTacToeGame```
+```javac TicTacToeGame.java```
+```java TicTacToeGame```
 
 Or open TicTacToeGame.java in your IDE and run it.
 
